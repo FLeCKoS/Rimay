@@ -1,0 +1,186 @@
+.titulocontact {
+    color: white;
+}
+
+.img_logo {
+    height: 120px;
+    width: 150px;
+}
+
+.pdd_2 {
+    padding: 20px;
+    width: 1320px;
+    background-color: tomato;
+    border-radius: 3px;
+}
+
+.main {
+    /*padding-top: 11rem;*/
+    padding-bottom: 2rem;
+    display: flex;
+    justify-content: center;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
+
+.pdd_3 {
+    padding: 50px;
+}
+
+#list_rs {
+    display: inline;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+body {
+    margin: 0;
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/621/859/641/peliculas-terror-wallpaper-preview.jpg);
+}
+
+.header {
+    /*position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;*/
+    background: white;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
+
+.btn_cat {
+    display: flex;
+    justify-content: center;
+}
+
+.txt_info a {
+    text-decoration: none;
+}
+
+.txt_info ul {
+    list-style: none;
+}
+
+.footer {
+    background-color: white;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    padding: 40px;
+}
+
+footer-container {
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+.lego2 {
+    color: black;
+    text-decoration: none;
+}
+
+.text_cont {
+    background: white;
+    height:700px;
+    max-height: 100%;
+    width: 100%;
+    padding: 30px;
+    text-align: justify;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.cuerpo_cont {
+    background: rgb(255, 255, 255);
+    background: linear-gradient(0deg, rgb(0, 0, 0) 14%, rgba(0, 0, 255, 0.985) 58%, rgb(50, 68, 255) 96%);
+    border-radius: 30px;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+
+
+
+
+#Barra_Buscar form ul {
+    display: flex;
+    flex-direction: column;
+}
+
+#Barra_Buscar {
+    background: rgb(243, 243, 243);
+    width: 13%;
+    right: 2%;
+    position: absolute;
+    top: 35px;
+}
+
+#Barra_Buscar li a {
+    display: block;
+    color: #272727;
+    padding: 8px 10px;
+    text-decoration: none;
+}
+
+#Barra_Buscar ul {
+    list-style: none !important;
+    margin: 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+#box_search li a:hover {
+    background: #d1d1d1;
+}
+
+#box_search {
+    display: none;
+}
+
+.Paypal {
+    width: 190px;
+    height: 75px;
+    display: flex;
+    margin-bottom: 3%;
+    
+    
+}
+.texto-paypal { 
+    margin-left: 10px;
+    letter-spacing: 2px; 
+    font-weight: bold;
+    
+    color: white;
+    margin-bottom: 5%;
+    
+    
+    
+}
+
+
+.cont_benef {
+    padding: 15px;
+    border-color: #272727;
+    border: 2px solid;
+    margin-bottom: 60px;
+}
+
+.suscribirse {
+    width: 600px;
+    height: 600px;
+ 
+}
+.tarjetas-credit {
+    width: 150px;
+    height: 60px;
+    
+    
+}
+.img_paypal{
+   padding-left: 25%;
+}

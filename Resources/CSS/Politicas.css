@@ -1,0 +1,145 @@
+.img_logo {
+    height: 120px;
+    width: 150px;
+}
+
+.pdd_2 {
+    padding: 20px;
+    width: 1320px;
+    background-color: tomato;
+    border-radius: 3px;
+}
+
+.main {
+    /*padding-top: 11rem;*/
+    padding-bottom: 2rem;
+    display: flex;
+    justify-content: center;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
+
+.pdd_3 {
+    padding: 50px;
+}
+
+#list_rs {
+    display: inline;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+body {
+    margin: 0;
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/621/859/641/peliculas-terror-wallpaper-preview.jpg);
+}
+
+.header {
+    /*position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;*/
+    background: white;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
+
+.btn_cat {
+    display: flex;
+    justify-content: center;
+}
+
+.txt_info a {
+    text-decoration: none;
+}
+
+.txt_info ul {
+    list-style: none;
+}
+
+.footer {
+    background-color: white;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    padding: 40px;
+}
+
+footer-container {
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+.cuerpo {
+    background: rgb(215, 42, 42);
+    background: linear-gradient(0deg, rgba(215, 42, 42, 1) 14%, rgba(244, 37, 21, 0.9850315126050421) 58%, rgba(215, 1, 43, 1) 96%);
+    border-radius: 10px;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+    padding-bottom: 25px;
+    padding: 3%;
+    width: 1400px;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.lego2 {
+    color: black;
+    text-decoration: none;
+}
+
+.lego4 {
+    border-style: solid;
+    width: 1000;
+    color: black;
+    background-color: aliceblue;
+}
+
+.text-justify {
+    color: black;
+    padding: 13px;
+    font-size: 12px;
+}
+
+.lego5 {
+    border-style: solid;
+    width: 1000;
+    height: 300;
+    color: aliceblue;
+    background-color: aliceblue
+}
+
+#Barra_Buscar form ul {
+    display: flex;
+    flex-direction: column;
+}
+
+#Barra_Buscar {
+    background: rgb(243, 243, 243);
+    width: 25%;
+    right: 2%;
+    position: absolute;
+    top: 35px;
+}
+
+#Barra_Buscar li a {
+    display: block;
+    color: #272727;
+    padding: 8px 10px;
+    text-decoration: none;
+}
+
+#Barra_Buscar ul {
+    list-style: none !important;
+    margin: 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+#box_search li a:hover {
+    background: #d1d1d1;
+}
+
+#box_search {
+    display: none;
+    
+}
